@@ -22,3 +22,9 @@
     background-color: yellow;
     padding: 10px;
 }
+.display-none {
+    display: none;
+}
+.display-hidden {
+    visibility: hidden;
+}
